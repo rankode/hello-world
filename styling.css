@@ -10,6 +10,6 @@ h1 {
 	margin: 2em 1em;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 10s steps(21, end),
-	           blink-caret .2s step-end infinite alternate;
+	-webkit-animation: typing 7s steps(91, end),
+	           blink-caret .0.5s step-end infinite alternate;
 }
